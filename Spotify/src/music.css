@@ -1,0 +1,100 @@
+.rhap_container{
+    background-color: rgb(30, 41, 59);
+    border-radius: 0;
+    height: 102px;
+}
+
+.rhap_progress-container{
+    height: 0;
+}
+
+.rhap_volume {
+    height: 100%;
+}
+
+.rhap_volume-bar {
+    height: 5px; 
+    margin-left: 100px; 
+}
+
+.rhap_progress-bar {
+    border-radius: 4px; 
+    width: 100%;
+}
+.rhap_main.rhap_stacked{
+    width: 100%;
+}
+
+.rhap_progress-section{
+    width: 100%;
+}
+
+.rhap_volume-bar .rhap_progress-filled {
+    background-color: #61dafb; 
+}
+
+.rhap_controls-section{
+    width: 100%;
+}
+.rhap_volume-controls {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.rhap_volume-bar-area{
+    background-color: white;
+    height: 5px;
+}
+
+.rhap_volume-container{
+    background-color: rgb(30, 41, 59);
+}
+
+.rhap_volume-indicator{
+    transition-duration: 0s;
+}
+
+.rhap_controls-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rhap_additional-controls {
+    flex: 0;
+}
+.rhap_main-controls {
+    flex: 50;
+    margin-left: 10%;
+}
+.rhap_time{
+    color: white;
+}
+
+.shuffle-button {
+    position: absolute;
+    top: 55%;
+    left: 55px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #7C7D7F;
+    font-size: 24px;
+}
+  
+.shuffle-button.active {
+    position: relative;
+    position: absolute;
+    color: #7C7D7F;
+}
+  
+.shuffle-button.active::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    width: 110%;
+    height: 2.4px;
+    background-color: #7C7D7F;
+    transform: rotate(50deg);
+    box-shadow: -1px -3px 0px 1.8px  rgb(30, 41, 59);
+}

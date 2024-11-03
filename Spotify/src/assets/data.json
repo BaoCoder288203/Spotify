@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Death Bed",
+    "artist": "Powfu",
+    "artwork": "https://samplesongs.netlify.app/album-arts/death-bed.jpg",
+    "url": "https://samplesongs.netlify.app/Death%20Bed.mp3",
+    "id": "1"
+  },
+  {
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "artwork": "https://samplesongs.netlify.app/album-arts/bad-liar.jpg",
+    "url": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
+    "id": "2"
+  },
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "artwork": "https://samplesongs.netlify.app/album-arts/faded.jpg",
+    "url": "https://samplesongs.netlify.app/Faded.mp3",
+    "id": "3"
+  },
+  {
+    "title": "Hate Me",
+    "artist": "Ellie Goulding",
+    "artwork": "https://samplesongs.netlify.app/album-arts/hate-me.jpg",
+    "url": "https://samplesongs.netlify.app/Hate%20Me.mp3",
+    "id": "4"
+  },
+  {
+    "title": "Solo",
+    "artist": "Clean Bandit",
+    "artwork": "https://samplesongs.netlify.app/album-arts/solo.jpg",
+    "url": "https://samplesongs.netlify.app/Solo.mp3",
+    "id": "5"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Halsey",
+    "artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
+    "url": "https://samplesongs.netlify.app/Without%20Me.mp3",
+    "id": "6"
+  },
+  {
+    "title": "Closer",
+    "artist": "The Chainsmokers",
+    "artwork": "https://samplesongs.netlify.app/album-arts/closer.jpg",
+    "url": "https://samplesongs.netlify.app/Closer.mp3",
+    "id": "7"
+  },
+  {
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "artwork": "https://samplesongs.netlify.app/album-arts/memories.jpg",
+    "url": "https://samplesongs.netlify.app/Memories.mp3",
+    "id": "8"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "artwork": "https://samplesongs.netlify.app/album-arts/shape-of-you.jpg",
+    "url": "https://samplesongs.netlify.app/Shape%20of%20You.mp3",
+    "id": "9"
+  },
+  {
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "artwork": "https://samplesongs.netlify.app/album-arts/believer.jpg",
+    "url": "https://samplesongs.netlify.app/Believer.mp3",
+    "id": "10"
+  },
+  {
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "artwork": "https://samplesongs.netlify.app/album-arts/stressed-out.jpg",
+    "url": "https://samplesongs.netlify.app/Stressed%20Out.mp3",
+    "id": "11"
+  },
+  {
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin",
+    "artwork": "https://samplesongs.netlify.app/album-arts/let-me-down-slowly.jpg",
+    "url": "https://samplesongs.netlify.app/Let%20Me%20Down%20Slowly.mp3",
+    "id": "12"
+  },
+  {
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "artwork": "https://samplesongs.netlify.app/album-arts/someone-you-loved.jpg",
+    "url": "https://samplesongs.netlify.app/Someone%20You%20Loved.mp3",
+    "id": "13"
+  },
+  {
+    "title": "Rockstar",
+    "artist": "Post Malone",
+    "artwork": "https://samplesongs.netlify.app/album-arts/rockstar.jpg",
+    "url": "https://samplesongs.netlify.app/Rockstar.mp3",
+    "id": "14"
+  },
+  {
+    "title": "Sunflower",
+    "artist": "Post Malone",
+    "artwork": "https://samplesongs.netlify.app/album-arts/sunflower.jpg",
+    "url": "https://samplesongs.netlify.app/Sunflower.mp3",
+    "id": "15"
+  },
+  {
+    "title": "Thunder",
+    "artist": "Imagine Dragons",
+    "artwork": "https://samplesongs.netlify.app/album-arts/thunder.jpg",
+    "url": "https://samplesongs.netlify.app/Thunder.mp3",
+    "id": "16"
+  },
+  {
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "artwork": "https://samplesongs.netlify.app/album-arts/stay.jpg",
+    "url": "https://samplesongs.netlify.app/Stay.mp3",
+    "id": "17"
+  },
+  {
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello",
+    "artwork": "https://samplesongs.netlify.app/album-arts/senorita.jpg",
+    "url": "https://samplesongs.netlify.app/Senorita.mp3",
+    "id": "18"
+  },
+  {
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "artwork": "https://samplesongs.netlify.app/album-arts/in-the-end.jpg",
+    "url": "https://samplesongs.netlify.app/In%20the%20End.mp3",
+    "id": "19"
+  },
+  {
+    "title": "Demons",
+    "artist": "Imagine Dragons",
+    "artwork": "https://samplesongs.netlify.app/album-arts/demons.jpg",
+    "url": "https://samplesongs.netlify.app/Demons.mp3",
+    "id": "20"
+  }
+]
